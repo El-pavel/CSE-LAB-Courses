@@ -1,0 +1,29 @@
+body{
+   background-color: antiquewhite;
+
+}
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    background-color: rgb(195, 218, 219);
+}
+
+td{
+    padding: 30px;
+}
+img{
+    margin-left: 5% ;
+}
+h2{
+    padding-bottom: 5px;
+}
+#one{
+    font-size: 30px;
+}
+q{
+    color: darkolivegreen;
+    margin-left: 5% ;
+}
+p{
+    padding-left: 2%;
+}
